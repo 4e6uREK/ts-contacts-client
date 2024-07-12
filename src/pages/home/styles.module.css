@@ -1,0 +1,15 @@
+.menu {
+    padding: 2rem 2rem;
+    background-color: #111;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.menu_name {
+    margin-bottom: 1rem;
+}
+
+.contacts_grid {
+    display: grid;
+}
